@@ -4,6 +4,7 @@ Using 3 different categories, you can record the different employees, roles, and
 
 # Installation 
 Download Node 
+
 Download Inquirer 
 
 Link to video: https://youtu.be/xiZdctRPAcM
